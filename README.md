@@ -1,8 +1,4 @@
-### Hi there 👋 
-
----
-
-## About me
+# Hi there 👋 
 
 ![Age: 17](https://img.shields.io/badge/age-17-blue?style=for-the-badge)
 
