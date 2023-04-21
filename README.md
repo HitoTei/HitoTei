@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 ![Age: 20](https://img.shields.io/badge/age-20-blue?style=for-the-badge)
-![Belongs: NITTC](https://img.shields.io/badge/belongs-nittc-Green?style=for-the-badge)
+![Belongs: ITF](https://img.shields.io/badge/belongs-itf-Green?style=for-the-badge)
 
 ダウンロードして
 
