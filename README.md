@@ -1,11 +1,13 @@
 # Hi there 👋 
 
-![Age: 21](https://img.shields.io/badge/age-21-blue?style=for-the-badge)
+![Age: 23](https://img.shields.io/badge/age-21-blue?style=for-the-badge)
 ![Belongs: ITF](https://img.shields.io/badge/belongs-itf-Green?style=for-the-badge)
 
-ダウンロードして
+~ダウンロードして~
 
-https://play.google.com/store/apps/developer?id=Hitotei
+~https://play.google.com/store/apps/developer?id=Hitotei~
+
+維持が難しくなったためデベロッパーアカウントは閉鎖しました
 
 
 AtCoder
